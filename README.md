@@ -1,1 +1,439 @@
-local s = Instance.new("\83\99\114\101\101\110\71\117\105") local p = Instance.new("\70\114\97\109\101") local t = Instance.new("\70\114\97\109\101") local l = Instance.new("\85\73\67\111\114\110\101\114") local j = Instance.new("\70\114\97\109\101") local g = Instance.new("\85\73\67\111\114\110\101\114") local q = Instance.new("\84\101\120\116\76\97\98\101\108") local c = Instance.new("\84\101\120\116\66\117\116\116\111\110") local e = Instance.new("\84\101\120\116\66\117\116\116\111\110") local n = Instance.new("\70\114\97\109\101") local r = Instance.new("\70\114\97\109\101") local _ = Instance.new("\85\73\71\114\97\100\105\101\110\116") local i_ = Instance.new("\84\101\120\116\66\117\116\116\111\110") local fi = Instance.new("\70\114\97\109\101") local a = Instance.new("\85\73\71\114\97\100\105\101\110\116") local oa = Instance.new("\84\101\120\116\66\117\116\116\111\110") local bo = Instance.new("\70\114\97\109\101") local kb = Instance.new("\83\99\114\111\108\108\105\110\103\70\114\97\109\101") local _rne = Instance.new("\85\73\76\105\115\116\76\97\121\111\117\116") local dh = Instance.new("\84\101\120\116\66\117\116\116\111\110") local sd = Instance.new("\70\114\97\109\101") local ps = Instance.new("\70\114\97\109\101") local tp = Instance.new("\85\73\67\111\114\110\101\114") local q_2 = Instance.new("\84\101\120\116\76\97\98\101\108") local jl = Instance.new("\84\101\120\116\66\117\116\116\111\110") local gj = Instance.new("\85\73\67\111\114\110\101\114") local qg = Instance.new("\84\101\120\116\66\117\116\116\111\110") local cq = Instance.new("\85\73\67\111\114\110\101\114") local ec = Instance.new("\70\114\97\109\101") local ne = Instance.new("\84\101\120\116\66\117\116\116\111\110") local rn = Instance.new("\85\73\67\111\114\110\101\114") local dh_2 = Instance.new("\84\101\120\116\66\117\116\116\111\110") local i_r = Instance.new("\84\101\120\116\66\117\116\116\111\110") local fi_ = Instance.new("\85\73\67\111\114\110\101\114") local af = Instance.new("\70\114\97\109\101") local oaf = Instance.new("\85\73\65\115\112\101\99\116\82\97\116\105\111\67\111\110\115\116\114\97\105\110\116") local l_8 = Instance.new("\85\73\67\111\114\110\101\114") local kbo = Instance.new("\73\109\97\103\101\76\97\98\101\108") local hk = Instance.new("\84\101\120\116\66\117\116\116\111\110") local dhk = Instance.new("\84\101\120\116\76\97\98\101\108") local sdh = Instance.new("\66\105\108\108\98\111\97\114\100\71\117\105") local af_2 = Instance.new("\70\114\97\109\101") local tps = Instance.new("\85\73\67\111\114\110\101\114") local ltp = Instance.new("\73\109\97\103\101\76\97\98\101\108") local jlt = Instance.new("\84\101\120\116\66\117\116\116\111\110") local q_4 = Instance.new("\84\101\120\116\76\97\98\101\108") s.Name = "\77\101\110\117" s.Parent = game.Players.LocalPlayer:WaitForChild("\80\108\97\121\101\114\71\117\105") s.Enabled = false s.ZIndexBehavior = Enum.ZIndexBehavior.Sibling s.ResetOnSpawn = false p.Parent = s p.BackgroundColor3 = Color3.fromRGB(255, 255, 255) p.BackgroundTransparency = 1.000 p.Size = UDim2.new(1, 0, 1, 0) t.Parent = p t.BackgroundColor3 = Color3.fromRGB(62, 62, 62) t.Position = UDim2.new(0.380703032, 0, 0.189718485, 0) t.Size = UDim2.new(0.238218531, 0, 0.619339049, 0) l.CornerRadius = UDim.new(0, 2) l.Parent = t j.Parent = t j.BackgroundColor3 = Color3.fromRGB(39, 39, 39) j.Position = UDim2.new(0, 0, -0.000718158204, 0) j.Size = UDim2.new(1.00000012, 0, 0.0920490474, 0) g.CornerRadius = UDim.new(0, 2) g.Parent = j q.Parent = j q.BackgroundColor3 = Color3.fromRGB(255, 255, 255) q.BackgroundTransparency = 1.000 q.BorderColor3 = Color3.fromRGB(27, 42, 53) q.Size = UDim2.new(0.767843425, 0, 1, 0) q.Font = Enum.Font.SourceSans q.Text = "\82\69\65\76\73\83\84\73\67\83\32\72\79\79\68\32\45\32\77\79\68\32\77\69\78\85" q.TextColor3 = Color3.fromRGB(255, 255, 255) q.TextScaled = true q.TextSize = 14.000 q.TextWrapped = true c.Name = "\77\105\110\105\109\97\110\105\122\101" c.Parent = j c.BackgroundColor3 = Color3.fromRGB(255, 255, 255) c.BackgroundTransparency = 1.000 c.Position = UDim2.new(0.721580148, 0, 0.0644097328, 0) c.Size = UDim2.new(0.123416677, 0, 0.841471851, 0) c.Font = Enum.Font.SourceSans c.Text = "\45" c.TextColor3 = Color3.fromRGB(255, 255, 255) c.TextScaled = true c.TextSize = 14.000 c.TextWrapped = true e.Name = "\67\108\111\115\101" e.Parent = j e.BackgroundColor3 = Color3.fromRGB(255, 255, 255) e.BackgroundTransparency = 1.000 e.Position = UDim2.new(0.847050309, 0, 0.0644097254, 0) e.Size = UDim2.new(0.123416677, 0, 0.841471851, 0) e.Font = Enum.Font.SourceSans e.Text = "\120" e.TextColor3 = Color3.fromRGB(255, 255, 255) e.TextScaled = true e.TextSize = 14.000 e.TextWrapped = true n.Name = "\70\114\97\109\101\50" n.Parent = t n.BackgroundColor3 = Color3.fromRGB(255, 255, 255) n.BackgroundTransparency = 1.000 n.Position = UDim2.new(0, 0, 0.0913308784, 0) n.Size = UDim2.new(1, 0, 0.908669114, 0) r.Name = "\80\108\97\121\101\114\115" r.Parent = n r.BackgroundColor3 = Color3.fromRGB(218, 218, 218) r.BorderSizePixel = 0 r.Position = UDim2.new(0.0753536522, 0, 0.0173993781, 0) r.Size = UDim2.new(0.843910813, 0, 0.0800079554, 0) _.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 1.00), NumberSequenceKeypoint.new(0.50, 0.00), NumberSequenceKeypoint.new(1.00, 1.00)} _.Parent = r i_.Parent = r i_.BackgroundColor3 = Color3.fromRGB(255, 255, 255) i_.BackgroundTransparency = 1.000 i_.Size = UDim2.new(1, 0, 1, 0) i_.Font = Enum.Font.SourceSansBold i_.Text = "\80\108\97\121\101\114\115" i_.TextColor3 = Color3.fromRGB(218, 68, 68) i_.TextScaled = true i_.TextSize = 14.000 i_.TextWrapped = true fi.Name = "\72\97\99\107\115" fi.Parent = n fi.BackgroundColor3 = Color3.fromRGB(218, 218, 218) fi.BorderSizePixel = 0 fi.Position = UDim2.new(0.0753536522, 0, 0.128320411, 0) fi.Size = UDim2.new(0.843910813, 0, 0.0800079554, 0) a.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 1.00), NumberSequenceKeypoint.new(0.50, 0.00), NumberSequenceKeypoint.new(1.00, 1.00)} a.Parent = fi oa.Parent = fi oa.BackgroundColor3 = Color3.fromRGB(255, 255, 255) oa.BackgroundTransparency = 1.000 oa.Size = UDim2.new(1, 0, 1, 0) oa.Font = Enum.Font.SourceSansBold oa.Text = "\72\97\99\107\115" oa.TextColor3 = Color3.fromRGB(218, 68, 68) oa.TextScaled = true oa.TextSize = 14.000 oa.TextWrapped = true bo.Name = "\80\108\97\121\101\114\115\77\101\110\117" bo.Parent = n bo.BackgroundColor3 = Color3.fromRGB(62, 62, 62) bo.Size = UDim2.new(1, 0, 1, 0) bo.Visible = false kb.Parent = bo kb.Active = true kb.BackgroundColor3 = Color3.fromRGB(255, 255, 255) kb.BackgroundTransparency = 1.000 kb.Position = UDim2.new(0.185244396, 0, 0.0173993781, 0) kb.Size = UDim2.new(0.814755619, 0, 0.941277087, 0) kb.CanvasSize = UDim2.new(0, 0, 0, 0) _rne.Parent = kb _rne.SortOrder = Enum.SortOrder.LayoutOrder _rne.Padding = UDim.new(0, 3) dh.Name = "\66\97\99\107" dh.Parent = bo dh.BackgroundColor3 = Color3.fromRGB(255, 255, 255) dh.BackgroundTransparency = 1.000 dh.Position = UDim2.new(0.0251178835, 0, 0.0173993781, 0) dh.Size = UDim2.new(0.0957560167, 0, 0.0669584274, 0) dh.Font = Enum.Font.SourceSans dh.Text = "\60" dh.TextColor3 = Color3.fromRGB(255, 255, 255) dh.TextScaled = true dh.TextSize = 14.000 dh.TextWrapped = true sd.Name = "\67\108\111\115\101\77\101\110\117" sd.Parent = n sd.BackgroundColor3 = Color3.fromRGB(62, 62, 62) sd.BorderColor3 = Color3.fromRGB(27, 42, 53) sd.Size = UDim2.new(1, 0, 1, 0) sd.Visible = false ps.Parent = sd ps.BackgroundColor3 = Color3.fromRGB(115, 115, 115) ps.Position = UDim2.new(0.188384131, 0, 0.284914792, 0) ps.Size = UDim2.new(0.617849827, 0, 0.360572904, 0) tp.CornerRadius = UDim.new(0, 20) tp.Parent = ps q_2.Parent = ps q_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255) q_2.BackgroundTransparency = 1.000 q_2.Size = UDim2.new(1, 0, 0.547611117, 0) q_2.Font = Enum.Font.SourceSansBold q_2.Text = "\65\114\101\32\121\111\117\32\115\117\114\101\32\116\111\32\99\108\111\115\101\32\116\104\105\115\32\109\111\100\32\109\101\110\117\32\63" q_2.TextColor3 = Color3.fromRGB(255, 255, 255) q_2.TextScaled = true q_2.TextSize = 14.000 q_2.TextWrapped = true jl.Name = "\89\101\115" jl.Parent = ps jl.BackgroundColor3 = Color3.fromRGB(159, 230, 76) jl.Position = UDim2.new(0.0762256905, 0, 0.663503647, 0) jl.Size = UDim2.new(0.364785731, 0, 0.215859234, 0) jl.Font = Enum.Font.SourceSans jl.Text = "\89\101\115" jl.TextColor3 = Color3.fromRGB(255, 255, 255) jl.TextScaled = true jl.TextSize = 14.000 jl.TextWrapped = true gj.CornerRadius = UDim.new(0, 20) gj.Parent = jl qg.Name = "\78\111" qg.Parent = ps qg.BackgroundColor3 = Color3.fromRGB(230, 83, 47) qg.Position = UDim2.new(0.569151819, 0, 0.663503647, 0) qg.Size = UDim2.new(0.364785731, 0, 0.215859234, 0) qg.Font = Enum.Font.SourceSans qg.Text = "\78\111" qg.TextColor3 = Color3.fromRGB(255, 255, 255) qg.TextScaled = true qg.TextSize = 14.000 qg.TextWrapped = true cq.CornerRadius = UDim.new(0, 20) cq.Parent = qg ec.Name = "\72\97\99\107\115\77\101\110\117" ec.Parent = n ec.BackgroundColor3 = Color3.fromRGB(62, 62, 62) ec.Size = UDim2.new(1, 0, 1, 0) ne.Name = "\71\111\100\77\111\100\101\66\117\116\116\111\110" ne.Parent = ec ne.BackgroundColor3 = Color3.fromRGB(47, 47, 47) ne.Position = UDim2.new(0.0627947152, 0, 0.0326238349, 0) ne.Size = UDim2.new(0.875308216, 0, 0.0952324197, 0) ne.Font = Enum.Font.SourceSans ne.Text = "\71\111\100\32\77\111\100\101\58\32\110\105\108" ne.TextColor3 = Color3.fromRGB(255, 255, 255) ne.TextScaled = true ne.TextSize = 14.000 ne.TextWrapped = true rn.CornerRadius = UDim.new(0, 20) rn.Parent = ne dh_2.Name = "\66\97\99\107" dh_2.Parent = ec dh_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255) dh_2.BackgroundTransparency = 1.000 dh_2.Size = UDim2.new(0.0957560167, 0, 0.0669584274, 0) dh_2.Font = Enum.Font.SourceSans dh_2.Text = "\60" dh_2.TextColor3 = Color3.fromRGB(255, 255, 255) dh_2.TextScaled = true dh_2.TextSize = 14.000 dh_2.TextWrapped = true i_r.Name = "\87\97\108\108\72\97\99\107" i_r.Parent = ec i_r.BackgroundColor3 = Color3.fromRGB(47, 47, 47) i_r.Position = UDim2.new(0.0627947152, 0, 0.167469025, 0) i_r.Size = UDim2.new(0.875308216, 0, 0.0952324197, 0) i_r.Font = Enum.Font.SourceSans i_r.Text = "\87\97\108\108\32\72\97\99\107\58\32\110\105\108" i_r.TextColor3 = Color3.fromRGB(255, 255, 255) i_r.TextScaled = true i_r.TextSize = 14.000 i_r.TextWrapped = true fi_.CornerRadius = UDim.new(0, 20) fi_.Parent = i_r af.Name = "\84\101\109\112\108\97\116\101" af.Parent = s af.BackgroundColor3 = Color3.fromRGB(24, 24, 24) af.Position = UDim2.new(0.100471541, 0, 0.0369736776, 0) af.Size = UDim2.new(0.788307786, 0, 0.115270838, 0) af.Visible = false oaf.Parent = af oaf.AspectRatio = 6.000 l_8.CornerRadius = UDim.new(0, 2) l_8.Parent = af kbo.Parent = af kbo.BackgroundColor3 = Color3.fromRGB(255, 255, 255) kbo.BackgroundTransparency = 1.000 kbo.Position = UDim2.new(0, 0, 0.0293306131, 0) kbo.Size = UDim2.new(0.168965816, 0, 1, 0) kbo.Image = "\114\98\120\97\115\115\101\116\58\47\47\116\101\120\116\117\114\101\115\47\117\105\47\71\117\105\73\109\97\103\101\80\108\97\99\101\104\111\108\100\101\114\46\112\110\103" hk.Parent = af hk.BackgroundColor3 = Color3.fromRGB(255, 255, 255) hk.BackgroundTransparency = 1.000 hk.Position = UDim2.new(0.166206807, 0, 0, 0) hk.Size = UDim2.new(0.83099997, 0, 0.618701994, 0) hk.Font = Enum.Font.SourceSans hk.Text = "\68\73\83\80\76\65\89\78\65\77\69" hk.TextColor3 = Color3.fromRGB(255, 255, 255) hk.TextScaled = true hk.TextSize = 14.000 hk.TextWrapped = true dhk.Parent = af dhk.BackgroundColor3 = Color3.fromRGB(255, 255, 255) dhk.BackgroundTransparency = 1.000 dhk.Position = UDim2.new(0.168965802, 0, 0.618702471, 0) dhk.Size = UDim2.new(0.831034124, 0, 0.381298423, 0) dhk.Font = Enum.Font.SourceSans dhk.Text = "\64\82\69\65\76\78\65\77\69" dhk.TextColor3 = Color3.fromRGB(255, 255, 255) dhk.TextScaled = true dhk.TextSize = 14.000 dhk.TextWrapped = true sdh.Parent = s sdh.ZIndexBehavior = Enum.ZIndexBehavior.Sibling sdh.Active = true sdh.AlwaysOnTop = true sdh.LightInfluence = 1.000 sdh.Size = UDim2.new(4, 0, 1, 0) af_2.Name = "\84\101\109\112\108\97\116\101" af_2.Parent = sdh af_2.BackgroundColor3 = Color3.fromRGB(206, 8, 8) af_2.Size = UDim2.new(1, 0, 1, 0) tps.CornerRadius = UDim.new(0, 2) tps.Parent = af_2 ltp.Parent = af_2 ltp.BackgroundColor3 = Color3.fromRGB(255, 255, 255) ltp.BackgroundTransparency = 1.000 ltp.Position = UDim2.new(0, 0, 0.0293306131, 0) ltp.Size = UDim2.new(0.168965816, 0, 1, 0) ltp.Image = "\114\98\120\97\115\115\101\116\58\47\47\116\101\120\116\117\114\101\115\47\117\105\47\71\117\105\73\109\97\103\101\80\108\97\99\101\104\111\108\100\101\114\46\112\110\103" jlt.Parent = af_2 jlt.BackgroundColor3 = Color3.fromRGB(255, 255, 255) jlt.BackgroundTransparency = 1.000 jlt.Position = UDim2.new(0.166206807, 0, 0, 0) jlt.Size = UDim2.new(0.83099997, 0, 0.618701994, 0) jlt.Font = Enum.Font.SourceSans jlt.Text = "\68\73\83\80\76\65\89\78\65\77\69" jlt.TextColor3 = Color3.fromRGB(255, 255, 255) jlt.TextScaled = true jlt.TextSize = 14.000 jlt.TextWrapped = true q_4.Parent = af_2 q_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255) q_4.BackgroundTransparency = 1.000 q_4.Position = UDim2.new(0.168965802, 0, 0.618702471, 0) q_4.Size = UDim2.new(0.831034124, 0, 0.381298423, 0) q_4.Font = Enum.Font.SourceSans q_4.Text = "\64\82\69\65\76\78\65\77\69" q_4.TextColor3 = Color3.fromRGB(255, 255, 255) q_4.TextScaled = true q_4.TextSize = 14.000 q_4.TextWrapped = true local function QMKGCW_fake_oafi()  local oafi = Instance.new('LocalScript', t) local cqg = game:GetService('UserInputService') local hkb = oafi.Parent local nec = nil local rne = 0.25 local _rn = nil local i_rn = nil local function f(d) local fi_r = d.Position - _rn local afi = UDim2.new(i_rn.X.Scale, i_rn.X.Offset + fi_r.X, i_rn.Y.Scale, i_rn.Y.Offset + fi_r.Y) game:GetService('TweenService'):Create(hkb, TweenInfo.new(rne), {Position = afi}):Play() end hkb.InputBegan:Connect(function(d) if (d.UserInputType == Enum.UserInputType.MouseButton1 or d.UserInputType == Enum.UserInputType.Touch) then  nec = true _rn = d.Position i_rn = hkb.Position d.Changed:Connect(function() if d.UserInputState == Enum.UserInputState.End then nec = false end end) end end) cqg.InputChanged:Connect(function(d) if d.UserInputType == Enum.UserInputType.MouseMovement or d.UserInputType == Enum.UserInputType.Touch then if nec then f(d) end end end) end coroutine.wrap(QMKGCW_fake_oafi)() local function QCSJFD_fake_oafi()  local oafi = Instance.new('LocalScript', s) local boaf = oafi.Parent local kboa = oafi.Parent.Frame local hkb = kboa.Frame local dhkb = hkb.Frame local sdhk = hkb.Frame2 local psdh = dhkb.Minimanize local tpsd = false local ltps = sdhk.Players.TextButton local jltp = nil local gjlt = sdhk.PlayersMenu local qgj = oafi.Parent.Template local cqgj = sdhk.CloseMenu local ecq = sdhk.Hacks.TextButton local necq = sdhk.HacksMenu function b() boaf:Destroy() end local rnec = math.random(1,5) if rnec == 1 then boaf.Name = "\66\114\105\97\110\32\77\101\110\117" elseif rnec == 2 then boaf.Name = "\77\101\110\117\32\67\114\101\97\97\116\101\100\32\98\121\32\66\114\105\97\110" elseif rnec == 3 then boaf.Name = "\77\101\110\117\32\66\114\105\97\110" elseif rnec == 4 then boaf.Name = "\82\101\97\108\105\115\116\105\99\32\72\111\111\100\32\77\101\110\117" elseif rnec == 5 then boaf.Name = "\66\114\105\97\110\32\82\101\97\108\105\115\116\105\99\32\72\111\111\100\32\77\101\110\117" end psdh.MouseButton1Click:Connect(function() if not tpsd then tpsd = true sdhk.Visible = false hkb.Transparency = 1 hkb.UIStroke.Enabled = false elseif tpsd then tpsd = false sdhk.Visible = true hkb.Transparency = 0 hkb.UIStroke.Enabled = true end end) function k() if jltp == "\80\108\97\121\101\114\115" then for i, delete in pairs(gjlt.ScrollingFrame:GetChildren()) do wait() delete:Destroy() end for i, getplayer in pairs(game:GetService("\80\108\97\121\101\114\115"):GetPlayers()) do wait() gjlt.Visible = true if not gjlt.ScrollingFrame:FindFirstChild("\85\73\76\105\115\116\76\97\121\111\117\116") then local _rne = Instance.new("\85\73\76\105\115\116\76\97\121\111\117\116") _rne.Parent = gjlt.ScrollingFrame _rne.Padding = UDim.new(0, 3) end local i_rne = qgj:Clone() i_rne.Visible = true i_rne.Parent = gjlt.ScrollingFrame gjlt.ScrollingFrame.CanvasSize = UDim2.new(0, 0, 0, gjlt.ScrollingFrame.UIListLayout.AbsoluteContentSize.Y) i_rne.TextButton.Text = getplayer.DisplayName i_rne.TextLabel.Text = "\64"..getplayer.Name i_rne.ImageLabel.Image = game:GetService("\80\108\97\121\101\114\115"):GetUserThumbnailAsync(getplayer.UserId, Enum.ThumbnailType.HeadShot, Enum.ThumbnailSize.Size420x420) end end end ltps.MouseButton1Click:Connect(function() if not tpsd then jltp = "\80\108\97\121\101\114\115" k() end end) gjlt.Back.MouseButton1Click:Connect(function() if jltp == "\80\108\97\121\101\114\115" or gjlt.Visible == true then jltp = nil gjlt.Visible = false for i, delete in pairs(gjlt.ScrollingFrame:GetChildren()) do wait() delete:Destroy() end end end) dhkb.Close.MouseButton1Click:Connect(function() jltp = "\67\108\111\115\101\77\101\110\117" cqgj.Visible = true end) cqgj.Frame.Yes.MouseButton1Click:Connect(function() if jltp == "\67\108\111\115\101\77\101\110\117" or cqgj.Visible == true then b() end end) cqgj.Frame.No.MouseButton1Click:Connect(function() if jltp == "\67\108\111\115\101\77\101\110\117" or cqgj.Visible == true then jltp = nil cqgj.Visible = false end end) ecq.MouseButton1Click:Connect(function() jltp = "\72\97\99\107\115\77\101\110\117" necq.Visible = true end) necq.Back.MouseButton1Click:Connect(function() if jltp == "\72\97\99\107\115\77\101\110\117" or necq.Visible == true then jltp = "" necq.Visible = false end end) game:GetService("\80\108\97\121\101\114\115").PlayerAdded:Connect(k) game:GetService("\80\108\97\121\101\114\115").PlayerRemoving:Connect(k) local fi_rn = false necq.GodModeButton.MouseButton1Click:Connect(function() local afi_ = game:GetService("\80\108\97\121\101\114\115").LocalPlayer.Character.Humanoid local oafi_ = afi_.Parent afi_.MaxHealth = 100000000 afi_.Health = 100000 while true do if afi_.Health < 100000000 then afi_.Health = 100000000 necq.GodModeButton.Text = "\71\111\100\32\77\111\100\101\58\32\82\101\102\105\108\108\32\72\101\97\108\116\104" wait() else wait() necq.GodModeButton.Text = "\71\111\100\32\77\111\100\101\58\32\79\110" end wait() end end) end coroutine.wrap(QCSJFD_fake_oafi)() 
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local Menu = Instance.new("ScreenGui")
+local Frame = Instance.new("Frame")
+local Frame_2 = Instance.new("Frame")
+local UICorner = Instance.new("UICorner")
+local Frame_3 = Instance.new("Frame")
+local UICorner_2 = Instance.new("UICorner")
+local TextLabel = Instance.new("TextLabel")
+local Minimanize = Instance.new("TextButton")
+local Close = Instance.new("TextButton")
+local Frame2 = Instance.new("Frame")
+local Players = Instance.new("Frame")
+local UIGradient = Instance.new("UIGradient")
+local TextButton = Instance.new("TextButton")
+local Hacks = Instance.new("Frame")
+local UIGradient_2 = Instance.new("UIGradient")
+local TextButton_2 = Instance.new("TextButton")
+local PlayersMenu = Instance.new("Frame")
+local ScrollingFrame = Instance.new("ScrollingFrame")
+local UIListLayout = Instance.new("UIListLayout")
+local Back = Instance.new("TextButton")
+local CloseMenu = Instance.new("Frame")
+local Frame_4 = Instance.new("Frame")
+local UICorner_3 = Instance.new("UICorner")
+local TextLabel_2 = Instance.new("TextLabel")
+local Yes = Instance.new("TextButton")
+local UICorner_4 = Instance.new("UICorner")
+local No = Instance.new("TextButton")
+local UICorner_5 = Instance.new("UICorner")
+local HacksMenu = Instance.new("Frame")
+local GodModeButton = Instance.new("TextButton")
+local UICorner_6 = Instance.new("UICorner")
+local Back_2 = Instance.new("TextButton")
+local WallHack = Instance.new("TextButton")
+local UICorner_7 = Instance.new("UICorner")
+local Template = Instance.new("Frame")
+local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
+local UICorner_8 = Instance.new("UICorner")
+local ImageLabel = Instance.new("ImageLabel")
+local TextButton_3 = Instance.new("TextButton")
+local TextLabel_3 = Instance.new("TextLabel")
+local BillboardGui = Instance.new("BillboardGui")
+local Template_2 = Instance.new("Frame")
+local UICorner_9 = Instance.new("UICorner")
+local ImageLabel_2 = Instance.new("ImageLabel")
+local TextButton_4 = Instance.new("TextButton")
+local TextLabel_4 = Instance.new("TextLabel")
+
+--Properties:
+
+Menu.Name = "Menu"
+Menu.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+Menu.Enabled = false
+Menu.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+Menu.ResetOnSpawn = false
+
+Frame.Parent = Menu
+Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Frame.BackgroundTransparency = 1.000
+Frame.Size = UDim2.new(1, 0, 1, 0)
+
+Frame_2.Parent = Frame
+Frame_2.BackgroundColor3 = Color3.fromRGB(62, 62, 62)
+Frame_2.Position = UDim2.new(0.380703032, 0, 0.189718485, 0)
+Frame_2.Size = UDim2.new(0.238218531, 0, 0.619339049, 0)
+
+UICorner.CornerRadius = UDim.new(0, 2)
+UICorner.Parent = Frame_2
+
+Frame_3.Parent = Frame_2
+Frame_3.BackgroundColor3 = Color3.fromRGB(39, 39, 39)
+Frame_3.Position = UDim2.new(0, 0, -0.000718158204, 0)
+Frame_3.Size = UDim2.new(1.00000012, 0, 0.0920490474, 0)
+
+UICorner_2.CornerRadius = UDim.new(0, 2)
+UICorner_2.Parent = Frame_3
+
+TextLabel.Parent = Frame_3
+TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.BackgroundTransparency = 1.000
+TextLabel.BorderColor3 = Color3.fromRGB(27, 42, 53)
+TextLabel.Size = UDim2.new(0.767843425, 0, 1, 0)
+TextLabel.Font = Enum.Font.SourceSans
+TextLabel.Text = "REALISTICS HOOD - MOD MENU"
+TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.TextScaled = true
+TextLabel.TextSize = 14.000
+TextLabel.TextWrapped = true
+
+Minimanize.Name = "Minimanize"
+Minimanize.Parent = Frame_3
+Minimanize.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Minimanize.BackgroundTransparency = 1.000
+Minimanize.Position = UDim2.new(0.721580148, 0, 0.0644097328, 0)
+Minimanize.Size = UDim2.new(0.123416677, 0, 0.841471851, 0)
+Minimanize.Font = Enum.Font.SourceSans
+Minimanize.Text = "-"
+Minimanize.TextColor3 = Color3.fromRGB(255, 255, 255)
+Minimanize.TextScaled = true
+Minimanize.TextSize = 14.000
+Minimanize.TextWrapped = true
+
+Close.Name = "Close"
+Close.Parent = Frame_3
+Close.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Close.BackgroundTransparency = 1.000
+Close.Position = UDim2.new(0.847050309, 0, 0.0644097254, 0)
+Close.Size = UDim2.new(0.123416677, 0, 0.841471851, 0)
+Close.Font = Enum.Font.SourceSans
+Close.Text = "x"
+Close.TextColor3 = Color3.fromRGB(255, 255, 255)
+Close.TextScaled = true
+Close.TextSize = 14.000
+Close.TextWrapped = true
+
+Frame2.Name = "Frame2"
+Frame2.Parent = Frame_2
+Frame2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Frame2.BackgroundTransparency = 1.000
+Frame2.Position = UDim2.new(0, 0, 0.0913308784, 0)
+Frame2.Size = UDim2.new(1, 0, 0.908669114, 0)
+
+Players.Name = "Players"
+Players.Parent = Frame2
+Players.BackgroundColor3 = Color3.fromRGB(218, 218, 218)
+Players.BorderSizePixel = 0
+Players.Position = UDim2.new(0.0753536522, 0, 0.0173993781, 0)
+Players.Size = UDim2.new(0.843910813, 0, 0.0800079554, 0)
+
+UIGradient.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 1.00), NumberSequenceKeypoint.new(0.50, 0.00), NumberSequenceKeypoint.new(1.00, 1.00)}
+UIGradient.Parent = Players
+
+TextButton.Parent = Players
+TextButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton.BackgroundTransparency = 1.000
+TextButton.Size = UDim2.new(1, 0, 1, 0)
+TextButton.Font = Enum.Font.SourceSansBold
+TextButton.Text = "Players"
+TextButton.TextColor3 = Color3.fromRGB(218, 68, 68)
+TextButton.TextScaled = true
+TextButton.TextSize = 14.000
+TextButton.TextWrapped = true
+
+Hacks.Name = "Hacks"
+Hacks.Parent = Frame2
+Hacks.BackgroundColor3 = Color3.fromRGB(218, 218, 218)
+Hacks.BorderSizePixel = 0
+Hacks.Position = UDim2.new(0.0753536522, 0, 0.128320411, 0)
+Hacks.Size = UDim2.new(0.843910813, 0, 0.0800079554, 0)
+
+UIGradient_2.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 1.00), NumberSequenceKeypoint.new(0.50, 0.00), NumberSequenceKeypoint.new(1.00, 1.00)}
+UIGradient_2.Parent = Hacks
+
+TextButton_2.Parent = Hacks
+TextButton_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_2.BackgroundTransparency = 1.000
+TextButton_2.Size = UDim2.new(1, 0, 1, 0)
+TextButton_2.Font = Enum.Font.SourceSansBold
+TextButton_2.Text = "Hacks"
+TextButton_2.TextColor3 = Color3.fromRGB(218, 68, 68)
+TextButton_2.TextScaled = true
+TextButton_2.TextSize = 14.000
+TextButton_2.TextWrapped = true
+
+PlayersMenu.Name = "PlayersMenu"
+PlayersMenu.Parent = Frame2
+PlayersMenu.BackgroundColor3 = Color3.fromRGB(62, 62, 62)
+PlayersMenu.Size = UDim2.new(1, 0, 1, 0)
+PlayersMenu.Visible = false
+
+ScrollingFrame.Parent = PlayersMenu
+ScrollingFrame.Active = true
+ScrollingFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ScrollingFrame.BackgroundTransparency = 1.000
+ScrollingFrame.Position = UDim2.new(0.185244396, 0, 0.0173993781, 0)
+ScrollingFrame.Size = UDim2.new(0.814755619, 0, 0.941277087, 0)
+ScrollingFrame.CanvasSize = UDim2.new(0, 0, 0, 0)
+
+UIListLayout.Parent = ScrollingFrame
+UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+UIListLayout.Padding = UDim.new(0, 3)
+
+Back.Name = "Back"
+Back.Parent = PlayersMenu
+Back.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Back.BackgroundTransparency = 1.000
+Back.Position = UDim2.new(0.0251178835, 0, 0.0173993781, 0)
+Back.Size = UDim2.new(0.0957560167, 0, 0.0669584274, 0)
+Back.Font = Enum.Font.SourceSans
+Back.Text = "<"
+Back.TextColor3 = Color3.fromRGB(255, 255, 255)
+Back.TextScaled = true
+Back.TextSize = 14.000
+Back.TextWrapped = true
+
+CloseMenu.Name = "CloseMenu"
+CloseMenu.Parent = Frame2
+CloseMenu.BackgroundColor3 = Color3.fromRGB(62, 62, 62)
+CloseMenu.BorderColor3 = Color3.fromRGB(27, 42, 53)
+CloseMenu.Size = UDim2.new(1, 0, 1, 0)
+CloseMenu.Visible = false
+
+Frame_4.Parent = CloseMenu
+Frame_4.BackgroundColor3 = Color3.fromRGB(115, 115, 115)
+Frame_4.Position = UDim2.new(0.188384131, 0, 0.284914792, 0)
+Frame_4.Size = UDim2.new(0.617849827, 0, 0.360572904, 0)
+
+UICorner_3.CornerRadius = UDim.new(0, 20)
+UICorner_3.Parent = Frame_4
+
+TextLabel_2.Parent = Frame_4
+TextLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.BackgroundTransparency = 1.000
+TextLabel_2.Size = UDim2.new(1, 0, 0.547611117, 0)
+TextLabel_2.Font = Enum.Font.SourceSansBold
+TextLabel_2.Text = "Are you sure to close this mod menu ?"
+TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.TextScaled = true
+TextLabel_2.TextSize = 14.000
+TextLabel_2.TextWrapped = true
+
+Yes.Name = "Yes"
+Yes.Parent = Frame_4
+Yes.BackgroundColor3 = Color3.fromRGB(159, 230, 76)
+Yes.Position = UDim2.new(0.0762256905, 0, 0.663503647, 0)
+Yes.Size = UDim2.new(0.364785731, 0, 0.215859234, 0)
+Yes.Font = Enum.Font.SourceSans
+Yes.Text = "Yes"
+Yes.TextColor3 = Color3.fromRGB(255, 255, 255)
+Yes.TextScaled = true
+Yes.TextSize = 14.000
+Yes.TextWrapped = true
+
+UICorner_4.CornerRadius = UDim.new(0, 20)
+UICorner_4.Parent = Yes
+
+No.Name = "No"
+No.Parent = Frame_4
+No.BackgroundColor3 = Color3.fromRGB(230, 83, 47)
+No.Position = UDim2.new(0.569151819, 0, 0.663503647, 0)
+No.Size = UDim2.new(0.364785731, 0, 0.215859234, 0)
+No.Font = Enum.Font.SourceSans
+No.Text = "No"
+No.TextColor3 = Color3.fromRGB(255, 255, 255)
+No.TextScaled = true
+No.TextSize = 14.000
+No.TextWrapped = true
+
+UICorner_5.CornerRadius = UDim.new(0, 20)
+UICorner_5.Parent = No
+
+HacksMenu.Name = "HacksMenu"
+HacksMenu.Parent = Frame2
+HacksMenu.BackgroundColor3 = Color3.fromRGB(62, 62, 62)
+HacksMenu.Size = UDim2.new(1, 0, 1, 0)
+
+GodModeButton.Name = "GodModeButton"
+GodModeButton.Parent = HacksMenu
+GodModeButton.BackgroundColor3 = Color3.fromRGB(47, 47, 47)
+GodModeButton.Position = UDim2.new(0.0627947152, 0, 0.0326238349, 0)
+GodModeButton.Size = UDim2.new(0.875308216, 0, 0.0952324197, 0)
+GodModeButton.Font = Enum.Font.SourceSans
+GodModeButton.Text = "God Mode: nil"
+GodModeButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+GodModeButton.TextScaled = true
+GodModeButton.TextSize = 14.000
+GodModeButton.TextWrapped = true
+
+UICorner_6.CornerRadius = UDim.new(0, 20)
+UICorner_6.Parent = GodModeButton
+
+Back_2.Name = "Back"
+Back_2.Parent = HacksMenu
+Back_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Back_2.BackgroundTransparency = 1.000
+Back_2.Size = UDim2.new(0.0957560167, 0, 0.0669584274, 0)
+Back_2.Font = Enum.Font.SourceSans
+Back_2.Text = "<"
+Back_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Back_2.TextScaled = true
+Back_2.TextSize = 14.000
+Back_2.TextWrapped = true
+
+WallHack.Name = "WallHack"
+WallHack.Parent = HacksMenu
+WallHack.BackgroundColor3 = Color3.fromRGB(47, 47, 47)
+WallHack.Position = UDim2.new(0.0627947152, 0, 0.167469025, 0)
+WallHack.Size = UDim2.new(0.875308216, 0, 0.0952324197, 0)
+WallHack.Font = Enum.Font.SourceSans
+WallHack.Text = "Wall Hack: nil"
+WallHack.TextColor3 = Color3.fromRGB(255, 255, 255)
+WallHack.TextScaled = true
+WallHack.TextSize = 14.000
+WallHack.TextWrapped = true
+
+UICorner_7.CornerRadius = UDim.new(0, 20)
+UICorner_7.Parent = WallHack
+
+Template.Name = "Template"
+Template.Parent = Menu
+Template.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+Template.Position = UDim2.new(0.100471541, 0, 0.0369736776, 0)
+Template.Size = UDim2.new(0.788307786, 0, 0.115270838, 0)
+Template.Visible = false
+
+UIAspectRatioConstraint.Parent = Template
+UIAspectRatioConstraint.AspectRatio = 6.000
+
+UICorner_8.CornerRadius = UDim.new(0, 2)
+UICorner_8.Parent = Template
+
+ImageLabel.Parent = Template
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 1.000
+ImageLabel.Position = UDim2.new(0, 0, 0.0293306131, 0)
+ImageLabel.Size = UDim2.new(0.168965816, 0, 1, 0)
+ImageLabel.Image = "rbxasset://textures/ui/GuiImagePlaceholder.png"
+
+TextButton_3.Parent = Template
+TextButton_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_3.BackgroundTransparency = 1.000
+TextButton_3.Position = UDim2.new(0.166206807, 0, 0, 0)
+TextButton_3.Size = UDim2.new(0.83099997, 0, 0.618701994, 0)
+TextButton_3.Font = Enum.Font.SourceSans
+TextButton_3.Text = "DISPLAYNAME"
+TextButton_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_3.TextScaled = true
+TextButton_3.TextSize = 14.000
+TextButton_3.TextWrapped = true
+
+TextLabel_3.Parent = Template
+TextLabel_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_3.BackgroundTransparency = 1.000
+TextLabel_3.Position = UDim2.new(0.168965802, 0, 0.618702471, 0)
+TextLabel_3.Size = UDim2.new(0.831034124, 0, 0.381298423, 0)
+TextLabel_3.Font = Enum.Font.SourceSans
+TextLabel_3.Text = "@REALNAME"
+TextLabel_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_3.TextScaled = true
+TextLabel_3.TextSize = 14.000
+TextLabel_3.TextWrapped = true
+
+BillboardGui.Parent = Menu
+BillboardGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+BillboardGui.Active = true
+BillboardGui.AlwaysOnTop = true
+BillboardGui.LightInfluence = 1.000
+BillboardGui.Size = UDim2.new(4, 0, 1, 0)
+
+Template_2.Name = "Template"
+Template_2.Parent = BillboardGui
+Template_2.BackgroundColor3 = Color3.fromRGB(206, 8, 8)
+Template_2.Size = UDim2.new(1, 0, 1, 0)
+
+UICorner_9.CornerRadius = UDim.new(0, 2)
+UICorner_9.Parent = Template_2
+
+ImageLabel_2.Parent = Template_2
+ImageLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel_2.BackgroundTransparency = 1.000
+ImageLabel_2.Position = UDim2.new(0, 0, 0.0293306131, 0)
+ImageLabel_2.Size = UDim2.new(0.168965816, 0, 1, 0)
+ImageLabel_2.Image = "rbxasset://textures/ui/GuiImagePlaceholder.png"
+
+TextButton_4.Parent = Template_2
+TextButton_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_4.BackgroundTransparency = 1.000
+TextButton_4.Position = UDim2.new(0.166206807, 0, 0, 0)
+TextButton_4.Size = UDim2.new(0.83099997, 0, 0.618701994, 0)
+TextButton_4.Font = Enum.Font.SourceSans
+TextButton_4.Text = "DISPLAYNAME"
+TextButton_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_4.TextScaled = true
+TextButton_4.TextSize = 14.000
+TextButton_4.TextWrapped = true
+
+TextLabel_4.Parent = Template_2
+TextLabel_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_4.BackgroundTransparency = 1.000
+TextLabel_4.Position = UDim2.new(0.168965802, 0, 0.618702471, 0)
+TextLabel_4.Size = UDim2.new(0.831034124, 0, 0.381298423, 0)
+TextLabel_4.Font = Enum.Font.SourceSans
+TextLabel_4.Text = "@REALNAME"
+TextLabel_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_4.TextScaled = true
+TextLabel_4.TextSize = 14.000
+TextLabel_4.TextWrapped = true
+
+-- Scripts:
+
+local function NHSEMAD_fake_script() -- Frame_2.LocalScript 
+	local script = Instance.new('LocalScript', Frame_2)
+
+	local UIS = game:GetService('UserInputService')
+	local frame = script.Parent
+	local dragToggle = nil
+	local dragSpeed = 0.25
+	local dragStart = nil
+	local startPos = nil
+	
+	local function updateInput(input)
+		local delta = input.Position - dragStart
+		local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+			startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+		game:GetService('TweenService'):Create(frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
+	end
+	
+	frame.InputBegan:Connect(function(input)
+		if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+			dragToggle = true
+			dragStart = input.Position
+			startPos = frame.Position
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragToggle = false
+				end
+			end)
+		end
+	end)
+	
+	UIS.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			if dragToggle then
+				updateInput(input)
+			end
+		end
+	end)
+end
+coroutine.wrap(NHSEMAD_fake_script)()
+local function MTATJ_fake_script() -- Menu.LocalScript 
+	local script = Instance.new('LocalScript', Menu)
+
+local a = script.Parent local o = script.Parent.Frame local b = o.Frame local k = b.Frame local h = b.Frame2 local d = k.Minimanize local s = false local p = h.Players.TextButton local t = nil local l = h.PlayersMenu local j = script.Parent.Template local g = h.CloseMenu local q = h.Hacks.TextButton local c = h.HacksMenu function i() a:Destroy() end local e = math.random(1,5) if e == 1 then a.Name = "\66\114\105\97\110\32\77\101\110\117" elseif e == 2 then a.Name = "\77\101\110\117\32\67\114\101\97\97\116\101\100\32\98\121\32\66\114\105\97\110" elseif e == 3 then a.Name = "\77\101\110\117\32\66\114\105\97\110" elseif e == 4 then a.Name = "\82\101\97\108\105\115\116\105\99\32\72\111\111\100\32\77\101\110\117" elseif e == 5 then a.Name = "\66\114\105\97\110\32\82\101\97\108\105\115\116\105\99\32\72\111\111\100\32\77\101\110\117" end d.MouseButton1Click:Connect(function() if not s then s = true h.Visible = false b.Transparency = 1 b.UIStroke.Enabled = false elseif s then s = false h.Visible = true b.Transparency = 0 b.UIStroke.Enabled = true end end) function f() if t == "\80\108\97\121\101\114\115" then for i, delete in pairs(l.ScrollingFrame:GetChildren()) do wait() delete:Destroy() end for i, getplayer in pairs(game:GetService("\80\108\97\121\101\114\115"):GetPlayers()) do wait() l.Visible = true if not l.ScrollingFrame:FindFirstChild("\85\73\76\105\115\116\76\97\121\111\117\116") then local n = Instance.new("\85\73\76\105\115\116\76\97\121\111\117\116") n.Parent = l.ScrollingFrame n.Padding = UDim.new(0, 3) end local r = j:Clone() r.Visible = true r.Parent = l.ScrollingFrame l.ScrollingFrame.CanvasSize = UDim2.new(0, 0, 0, l.ScrollingFrame.UIListLayout.AbsoluteContentSize.Y) r.TextButton.Text = getplayer.DisplayName r.TextLabel.Text = "\64"..getplayer.Name r.ImageLabel.Image = game:GetService("\80\108\97\121\101\114\115"):GetUserThumbnailAsync(getplayer.UserId, Enum.ThumbnailType.HeadShot, Enum.ThumbnailSize.Size420x420) end end end p.MouseButton1Click:Connect(function() if not s then t = "\80\108\97\121\101\114\115" f() end end) l.Back.MouseButton1Click:Connect(function() if t == "\80\108\97\121\101\114\115" or l.Visible == true then t = nil l.Visible = false for i, delete in pairs(l.ScrollingFrame:GetChildren()) do wait() delete:Destroy() end end end) k.Close.MouseButton1Click:Connect(function() t = "\67\108\111\115\101\77\101\110\117" g.Visible = true end) g.Frame.Yes.MouseButton1Click:Connect(function() if t == "\67\108\111\115\101\77\101\110\117" or g.Visible == true then i() end end) g.Frame.No.MouseButton1Click:Connect(function() if t == "\67\108\111\115\101\77\101\110\117" or g.Visible == true then t = nil g.Visible = false end end) q.MouseButton1Click:Connect(function() t = "\72\97\99\107\115\77\101\110\117" c.Visible = true end) c.Back.MouseButton1Click:Connect(function() if t == "\72\97\99\107\115\77\101\110\117" or c.Visible == true then t = "" c.Visible = false end end) game:GetService("\80\108\97\121\101\114\115").PlayerAdded:Connect(f) game:GetService("\80\108\97\121\101\114\115").PlayerRemoving:Connect(f) local _ = false c.GodModeButton.MouseButton1Click:Connect(function() local i_ = game:GetService("\80\108\97\121\101\114\115").LocalPlayer.Character.Humanoid local fi = i_.Parent i_.MaxHealth = 100000000 i_.Health = 100000 while true do if i_.Health < 100000000 then i_.Health = 100000000 c.GodModeButton.Text = "\71\111\100\32\77\111\100\101\58\32\82\101\102\105\108\108\32\72\101\97\108\116\104" wait() else wait() c.GodModeButton.Text = "\71\111\100\32\77\111\100\101\58\32\79\110" end wait() end end) 
+end
+coroutine.wrap(MTATJ_fake_script)()
